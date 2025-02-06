@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales
+# Coffee Shop Sales Analysis
 
 ## Overview
 ### The Coffee Shop Sales Dashboard provides an insightful overview of the coffee shop's sales performance, customer footfall, and order trends. It visually represents data to help understand customer preferences, peak business hours, and sales distribution across various categories.
