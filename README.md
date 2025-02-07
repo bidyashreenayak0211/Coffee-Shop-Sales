@@ -46,3 +46,6 @@
 * Understanding customer preferences for product categories and portion sizes.
 * Evaluating store performance across different locations.
 * Analyzing sales trends based on weekdays and months.
+
+![image](https://github.com/user-attachments/assets/5f91776f-dcfe-4013-a89a-5d1b0a3dc5ce)
+
